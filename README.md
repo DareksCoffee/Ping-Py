@@ -25,4 +25,4 @@ Run the game :
 ```
 python main.py
 ```
-[!alt text](https://i.imgur.com/MPvbtCr.png)
+![alt text](https://i.imgur.com/MPvbtCr.png)
